@@ -9,5 +9,14 @@ A supervised Machine Learning pipeline utilizing Random Forests and NLP vectoriz
 
 ## Getting Started
 1. Clone the repository.
+
+```bash
+git clone [https://github.com/yourusername/spotify-sentiment-engine.git](https://github.com/yourusername/spotify-sentiment-engine.git)
+cd spotify-sentiment-engine
+pip install -r requirements.txt
+```
+
 2. Place `spotify_dataset.csv` in a `data/` directory.
 3. Run `python main.py`.
+
+
