@@ -1,0 +1,8 @@
+# Data and large files
+data/*.csv
+data/*.zip
+
+# Python environment and caches
+__pycache__/
+*.pyc
+.env
